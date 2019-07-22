@@ -2135,7 +2135,7 @@ input, select, textarea {
 		.icon.alt:before {
 			background-color: #ffffff;
 			border-radius: 100%;
-			color: #242943;
+			color: rgba(2, 218, 19, 0.93);
 			display: inline-block;
 			height: 2em;
 			line-height: 2em;
